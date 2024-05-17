@@ -1,0 +1,19 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  background-color: #44281d;
+}
+
+*::-webkit-scrollbar{
+  width: 0px;
+}
