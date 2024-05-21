@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/ricky_and_Morty_API'
+  base: '/Ricky_and_Morty_API'
 })
